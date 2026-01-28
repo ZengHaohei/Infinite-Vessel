@@ -20,13 +20,13 @@ The **Infinite Soma (ISA)** architecture is not a conventional robotic manufactu
 
 #### 2.1 Muscle: Helix-Matrix Actuators (HMA)
 
-* **Definition**: A micro-woven actuation fiber cluster mimicking the DNA double-helix structure.
-* **Composition**: Utilizes multi-stage Nickel-Titanium Shape Memory Alloy (SMA) wires, formed into high-redundancy helical bundles through fractal geometry weaving techniques.
+* **Definition**: A micro-woven actuation fiber cluster utilizing hyper-helical geometry (triple-helix or higher-order configurations) to convert thermal or electrical stimuli into mechanical work.
+* **Composition**: A material-agnostic architecture compatible with high-strength polymers, carbon-composite fibers, or smart alloys; formed into high-redundancy bundles through multi-stage fractal weaving to amplify micro-axial strain into macro-stroke output.
 
 **Characteristics**:
 
 * **Ultra-long Stroke Ratio**: Achieves contraction amplitudes far exceeding biological muscles through the synergy of physical helical unfolding and material phase-transition contraction.
-* **Phase-Transition Drive**: Utilizes dual mechanisms of heat-induced (Austenite transformation) and stress-induced (Martensite transformation) transitions, supporting electrical heating, ambient temperature gradients, and mechanical force triggering.
+* **Multi-Modal Geometric Drive**: Utilizes the synergy between structural helix-unfolding and material anisotropic expansion. It supports direct electrical heating, ambient thermal harvesting, and stress-triggered potential release.
 * **Mechanical Locking**: Integrates micro-scale "ratchet effects" to support a zero-energy consumption **Normally-Closed Pre-tension** state.
 
 #### 2.2 Blood: Ferro-Electrolytic Vital Fluid (FEVF)
@@ -233,12 +233,13 @@ After the weight is removed, the system utilizes the captured potential energy, 
 
 #### 2.1 肌肉：螺旋矩阵致动器 (Helix-Matrix Actuators, HMA)
 
-* **定义**：一种仿生DNA双螺旋结构的微观编织致动纤维簇。
-* **构成**：采用多级镍钛形状记忆合金（SMA）丝线，通过分形几何编织技术形成高冗余度的螺旋束。
+* **定义**：一种利用超螺旋几何结构（三螺旋或更高阶结构）将热刺激或电刺激转化为机械功的微编织驱动纤维簇。
+
+* **组成**：一种与材料无关的结构，可与高强度聚合物、碳复合纤维或智能合金兼容；通过多级分形编织形成高冗余束，以将微轴向应变放大为宏观冲程输出。
 
 **特性**：
 * **超长行程比**：通过螺旋结构的物理展开与材料相变收缩的叠加，实现远超生物肌肉的收缩幅度。
-* **相变驱动**：利用热诱发（奥氏体转变）与应力诱发（马氏体转变）的双向机制，支持电加热、环境温差及机械力触发。
+* **多模态几何驱动**：利用螺旋结构物理展开与材料各向异性膨胀的协同效应。支持直接通电加热、环境温差捕获以及应力触发的势能释放。
 * **机械闭锁**：集成微观层面的“棘轮效应”，支持零能耗的**常闭预紧（Normally-Closed Pre-tension）**状态。
 
 #### 2.2 血液：铁磁电解质循环介质 (Ferro-Electrolytic Vital Fluid, FEVF)
