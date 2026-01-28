@@ -66,7 +66,7 @@ During the descending phase of a gait cycle (landing), the potential energy of t
 
 * **Mechanism**: Landing impact is not treated as a loss. Instead, through skeletal leverage, it forcibly stretches the helical muscles on the landing side. At this moment, gravity performs work to pull the muscles back into a "high pre-tension state," completing physical-level automatic charging and storing potential energy for the next move. This is a composite physical model of an **"Inverted Pendulum + Catapult."**
 
-### ** 3.1 Infinite Soma (ISA) Architecture: Potential Energy Flux and Dynamic Self-Healing Logic**
+### 3.1 Infinite Soma (ISA) Architecture: Potential Energy Flux and Dynamic Self-Healing Logic
 
 #### **Kinetic Capture and Asymmetric Trigger Mechanism**
 
@@ -306,7 +306,7 @@ After the weight is removed, the system utilizes the captured potential energy, 
 在步态周期的下降阶段（落地），系统的上半部分重量（重心）在重力作用下向下势能释放。
 * *机制*：落地冲击力不被视为损耗，而是通过骨骼杠杆作用，强制拉伸着陆侧的螺旋肌肉。此时，重力做功将肌肉重新拉回“高预紧状态”，完成物理层面的自动充能，为下一步动作储备势能。这是一种**“倒立摆+弹射器”**的复合物理模型。
 
-### ** 3.1 Infinite Soma (ISA) 架构：势能流转与动态自愈逻辑**
+### 3.1 Infinite Soma (ISA) 架构：势能流转与动态自愈逻辑
 
 #### **动能俘获与非对称触发机制**
 
