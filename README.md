@@ -66,6 +66,37 @@ During the descending phase of a gait cycle (landing), the potential energy of t
 
 * **Mechanism**: Landing impact is not treated as a loss. Instead, through skeletal leverage, it forcibly stretches the helical muscles on the landing side. At this moment, gravity performs work to pull the muscles back into a "high pre-tension state," completing physical-level automatic charging and storing potential energy for the next move. This is a composite physical model of an **"Inverted Pendulum + Catapult."**
 
+### ** 3.1 Infinite Soma (ISA) Architecture: Potential Energy Flux and Dynamic Self-Healing Logic**
+
+#### **Kinetic Capture and Asymmetric Trigger Mechanism**
+
+The core operational logic of the system is not based on conventional electrical power for displacement, but rather on a **"Gravitational Potential Energy Scavenging"** framework.
+
+* **Phase-Asynchronous Gait Triggering**: During the initiation phase, the system unlocks the **antagonistic-side limiter** via a micro-actuator. This process consumes minimal electrical energy, only sufficient to overcome the static friction of the mechanism, achieving "potential energy release" at near-zero power.
+* **Gravitational Surplus Conversion**: As the center of gravity shifts forward, leading to a controlled fall, the combined force of the ground reaction and the body's mass ($\times g$) far exceeds the initial input energy required for leg elevation. The system exploits this **asymmetric energy differential** to forcibly stretch the pre-tensioned fiber bundles, converting macro-gravitational potential into micro-material elastic potential.
+* **Discrete Pulse Recovery**: During the dynamic displacement before the end of the stance phase, ferromagnetic fluid media embedded within the hollow skeletal structure sweep through external induction coils at high velocity. This converts the kinetic surplus into high-frequency pulse currents, which are pumped into a supercapacitor array, completing the energy loop at the electrical level.
+
+#### **Dual-Stage Elastic Potential Reservoir and Differential Offset Self-Healing**
+
+To address the attenuation of pre-tension forces following an action, the system does not rely on motors for forced retraction. Instead, it utilizes **physical counter-balancing** for state reset.
+
+* **Potential Well Design for Energy Storage**: Parallel to the primary actuator (HMA), there is a **Secondary Reserve Spring Array** held in a ready state. These are interconnected via a mechanical linkage shaft or differential gearing, forming a "mechanical balance scale" at the physical level.
+* **Automatic Convergence of Equilibrium**: When the primary actuator's potential level drops due to external work, creating a displacement deviation relative to the reserve side, the system releases a **relay-locking mechanism**. Based on the "tendency toward the lowest energy state" of physical systems, the high-pressure reserve side instantaneously "pours" potential energy into the deficit side. This utilizes the **differential pressure** between the two spring sets to forcibly pull the displacement gap back to zero.
+* **Static Rigid Locking**: Once the torques on both sides return to the predefined physical equilibrium point, the mechanical limiters re-engage in a self-locking state. This achieves a pure physical-level consistency calibration without sensor intervention, ensuring the system always operates within its rated efficiency envelope.
+
+#### **Multi-Modal Energy Compensation and Steady-State Maintenance**
+
+To offset entropic losses in mechanical transmission, the system constructs multi-level energy redundancy paths:
+
+* **Inertial Reset Path**: By leveraging the immense centrifugal forces and momentum generated during high-speed limb-swing cycles, combined with one-way ratchet mechanisms, the "negative work phases" are transformed into an automatic winding process for the reserve springs, achieving physical self-sufficiency.
+* **Active Electromagnetic Intervention**: In cases where physical recovery does not fully cover the losses, the system draws upon the gravitational feedback energy stored in the capacitors. It delivers an instantaneous pulse through electromagnetic pushrods to provide precision compensation for pre-tension displacement.
+
+### **Technical Value Summary (Open Source Impact)**
+
+This architecture fundamentally redefines energy efficiency for biomimetic robotics. It transforms **Gravity** from a "load to be overcome" into the "primary energy input" and **Pre-tension** from a "static loss" into a "motion accelerator."
+
+The **"Dual-Stage Reserve Counter-Balancing"** solves the lag and fatigue issues of elastic actuators in complex terrains. Developers in the open-source community are no longer limited by expensive servo algorithms; by optimizing physical parameters such as gear ratios and spring stiffness, they can realize physical intelligence with **infinite endurance potential**.
+
 ---
 
 ### 4. Quad-Cycle Energy Harvesting System
@@ -274,6 +305,37 @@ After the weight is removed, the system utilizes the captured potential energy, 
 **重力再充能（Gravity Re-charging）**：
 在步态周期的下降阶段（落地），系统的上半部分重量（重心）在重力作用下向下势能释放。
 * *机制*：落地冲击力不被视为损耗，而是通过骨骼杠杆作用，强制拉伸着陆侧的螺旋肌肉。此时，重力做功将肌肉重新拉回“高预紧状态”，完成物理层面的自动充能，为下一步动作储备势能。这是一种**“倒立摆+弹射器”**的复合物理模型。
+
+### ** 3.1 Infinite Soma (ISA) 架构：势能流转与动态自愈逻辑**
+
+#### **动能俘获与非对称触发机制**
+
+系统的核心运行逻辑并非基于传统的电能驱动位移，而是建立在**“重力势能收割”**的基础之上。
+
+* **相异步态触发**：肢体在启动阶段通过微型执行器解开**拮抗侧限位器**。此过程仅需克服机构静态摩擦力，实现极低能耗的“势能释放”。
+* **重力盈余转化**：当重心前倾导致身体进入受控坠落状态时，地面反作用力与人体/机体自重产生的合力远超抬腿所需的初始输入能。系统利用这种**非对称能量差**，强行拉伸处于张紧态的纤维束，将宏观的重力势能转化为微观的材料弹性势能。
+* **离散脉冲回收**：在支撑相结束前的动态位移中，内嵌于中空骨骼的磁流体介质高速切割外部感应线圈，将动能盈余以高频脉冲电流的形式泵入超级电容阵列，完成电学层面的能量闭环。
+
+#### **双级弹性势能储备与差分对冲自愈**
+
+针对动作执行后的预紧力衰减问题，系统不依赖电机强制回拉，而是通过**物理对冲**实现状态重置。
+
+* **储备势能阱设计**：主执行器后方并联有一组处于待发状态的**二级储备弹簧阵列**。两者通过机械联动轴或差速齿轮构成了物理层面的“力学天平”。
+* **平衡点自动收敛**：当主执行器因对外做功导致预紧能级下降，与储备侧产生位移偏差时，系统释放**中继锁定机构**。基于物理系统的“最低能级趋向性”，高压储备侧会瞬间向亏损侧进行势能灌注，利用两组弹簧之间的**差分压力**强行拉回位移缺口。
+* **静态刚性锁定**：一旦两侧力矩恢复至预设的物理平衡点，机械限位器再次进入自锁状态。此过程实现了无传感器参与的、纯物理级的一致性校准，确保系统始终运行在额定能效区间。
+
+#### **多模态能量补偿与稳态维持**
+
+为了抵消机械传动中的熵增损耗，系统构建了多级能量冗余路径：
+
+* **惯性重置路径**：利用肢体在高速摆动周期中产生的巨大离心力与动量，配合单向棘轮机构，将“负功阶段”转化为对储备弹簧的自动上弦过程，实现物理层面的自给自足。
+* **主动电磁介入**：当物理回收不足以完全覆盖损耗时，系统调用电容中存储的重力馈能，通过电磁推杆产生瞬时脉冲力，对预紧位移进行精准补偿。
+
+### **技术价值摘要 (Open Source Impact)**
+
+这种架构彻底革新了仿生机器人的能效定义。它将**重力**从“需要克服的负荷”转化为“最主要的能源输入”；将**预紧力**从“静态损耗”转化为“动作的加速器”。
+
+通过**“二级储备对冲”**解决了弹性执行器在复杂地形下的滞后与疲劳问题。开源社区的开发者将不再受限于昂贵的伺服算法，而是通过优化齿轮比、弹簧刚度等物理参数，就能实现具备**无限续航潜力**的物理智能。
 
 ---
 
