@@ -20,13 +20,12 @@ The **Infinite Soma (ISA)** architecture is not a conventional robotic manufactu
 
 #### 2.1 Muscle: Helix-Matrix Actuators (HMA)
 
-* **Definition**: A micro-woven actuation fiber cluster utilizing hyper-helical geometry (triple-helix or higher-order configurations) to convert thermal or electrical stimuli into mechanical work.
-* **Composition**: A material-agnostic architecture compatible with high-strength polymers, carbon-composite fibers, or smart alloys; formed into high-redundancy bundles through multi-stage fractal weaving to amplify micro-axial strain into macro-stroke output.
+* **Definition**: A micro-woven actuation fiber cluster utilizing **Twist-and-Coil** technology to mimic and exceed DNA-like helical efficiency.
+* **Composition**: A material-agnostic architecture utilizing **Pre-programmed Weaving** of high-strength fibers (polymers, carbon-composites, etc.) into **Supercoiled Polymer (SCP)** bundles. These are formed through fractal geometry weaving into high-redundancy triple-helix or higher-order helical configurations.
 
 **Characteristics**:
-
-* **Ultra-long Stroke Ratio**: Achieves contraction amplitudes far exceeding biological muscles through the synergy of physical helical unfolding and material phase-transition contraction.
-* **Multi-Modal Geometric Drive**: Utilizes the synergy between structural helix-unfolding and material anisotropic expansion. It supports direct electrical heating, ambient thermal harvesting, and stress-triggered potential release.
+* **Ultra-long Stroke Ratio**: Achieves massive contraction amplitudes through the synergy of helical unfolding and material expansion, amplified by the **Supercoiled** geometry.
+* **Multi-Modal Drive**: Supports electrical heating, ambient temperature gradients, and mechanical triggering via the **Twist-and-Coil** structural tension.
 * **Mechanical Locking**: Integrates micro-scale "ratchet effects" to support a zero-energy consumption **Normally-Closed Pre-tension** state.
 
 #### 2.2 Blood: Ferro-Electrolytic Vital Fluid (FEVF)
@@ -231,15 +230,14 @@ After the weight is removed, the system utilizes the captured potential energy, 
 
 ### 2. 基础硬件三要素 (Fundamental Hardware Trinity)
 
-#### 2.1 肌肉：螺旋矩阵致动器 (Helix-Matrix Actuators, HMA)
+#### 2.1 肌肉：螺旋矩阵致动器 (HMA)
 
-* **定义**：一种利用超螺旋几何结构（三螺旋或更高阶结构）将热刺激或电刺激转化为机械功的微编织驱动纤维簇。
-
-* **组成**：一种与材料无关的结构，可与高强度聚合物、碳复合纤维或智能合金兼容；通过多级分形编织形成高冗余束，以将微轴向应变放大为宏观冲程输出。
+* **定义**：一种利用 **Twist-and-Coil** 技术，模仿并超越 DNA 双螺旋效率的微观编织致动纤维簇。
+* **构成**：一种材料通配型架构，通过对高强度纤维（聚合物、碳纤维复合材料等）进行 **Pre-programmed Weaving**（预编程编织），形成 **Supercoiled Polymer (SCP)** 束。利用分形几何编织技术，将其构建为高冗余度的三螺旋或更高阶螺旋配置。
 
 **特性**：
-* **超长行程比**：通过螺旋结构的物理展开与材料相变收缩的叠加，实现远超生物肌肉的收缩幅度。
-* **多模态几何驱动**：利用螺旋结构物理展开与材料各向异性膨胀的协同效应。支持直接通电加热、环境温差捕获以及应力触发的势能释放。
+* **超长行程比**：通过螺旋结构的物理展开与材料膨胀的叠加，并经由 **Supercoiled** 几何倍增，实现超大幅度的收缩输出。
+* **多模态驱动**：支持利用 **Twist-and-Coil** 结构张力实现通电加热、环境温差及机械力触发。
 * **机械闭锁**：集成微观层面的“棘轮效应”，支持零能耗的**常闭预紧（Normally-Closed Pre-tension）**状态。
 
 #### 2.2 血液：铁磁电解质循环介质 (Ferro-Electrolytic Vital Fluid, FEVF)
