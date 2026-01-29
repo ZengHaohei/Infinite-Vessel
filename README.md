@@ -142,6 +142,32 @@ This system is not creating energy from nothing (First Kind of Perpetual Motion)
 * **Operation:** The system consumes a tiny amount of electrical energy (to trigger the latch and slide the mass) to "gate" a massive amount of gravitational energy.
 * **Efficiency:** While the "Control Efficiency" (Output / Control Input) may appear to be Over-Unity (>100%), the "Total System Efficiency" (Output / Gravitational Input) remains within thermodynamic laws. We are simply harvesting the "1000%" input provided by nature.
 
+### 3.3 Universal Protocol: Phase-Sensing Fluidic Cyclic Augmentation Architecture
+
+#### 1. Core Physical Logic
+
+This architecture achieves spontaneous energy gain through the physical isolation and phase-shifting of the "Energy Capture Segment" and the "Work Output Segment" within **cyclic mechanical motion**. It is independent of specific limbs and is applicable to any kinetic system exhibiting **periodic pressure fluctuations**.
+
+**A. Energy Capture Phase**
+
+* **Trigger Mechanism**: The "sensing end" of the system sustains an external load (e.g., compression, impact, or gravity).
+* **Physical Process**: The load drives fluid pumping, converting environmental mechanical energy into hydrostatic pressure. At this stage, the circulation loop is in a **unidirectional energy-storage state**, with energy locked within the accumulation unit.
+
+**B. Logic Rectification Phase**
+
+* **Trigger Mechanism**: Motion phase switching (triggered by inertia, contact state, or preset geometric angles).
+* **Physical Process**: A fluidic logic gate closes the energy-storage path and instantaneously opens the actuation path.
+* **Physical Significance**: This achieves the transport of energy across the **timeline**—precisely projecting the "waste energy" captured in the previous phase onto the motion trajectory of the next phase.
+
+**C. Compensatory Output Phase**
+
+* **Actuation Mechanism**: Antagonistic Drive Units receive the high-pressure fluid.
+* **Physical Process**: Fluid pressure generates directional displacement at the executive end, creating a physical singularity where **"resistance transforms into assistance."** Once the action is complete, the system automatically returns to an equilibrium state, maintaining "physical transparency" (i.e., it does not interfere with free movement).
+
+#### 2. Definition: Self-Synchronized Fluidic Feedback Loop
+
+This system is defined as a **"Physical-Level Algorithm."** It completely integrates sensors, logic judgment, and actuators within the mutual collisions of fluid molecules. By bypassing the expensive "signal conversion losses" prevalent in modern robotics, it achieves direct gain along the **Kinetic Energy - Pressure Energy - Kinetic Energy** transformation chain.
+
 ---
 
 ### 4. Quad-Cycle Energy Harvesting System
@@ -424,6 +450,32 @@ $$E_{净收益} = (W_{下落做功} - W_{上升耗功}) - E_{控制能耗} - E_{
 * **来源**：能量完全来源于地球引力场。
 * **运行**：系统消耗极少量的电能（用于触发锁扣和移动滑块）来“以此博彼”，撬动巨大的重力流。
 * **效率**：虽然“控制效率”（产出/控制输入）在表现上实现了超单位增益（Over-Unity, >100%），但“系统总效率”（产出/重力输入）依然遵循热力学定律。我们仅仅是在收割大自然提供的那个“1000%”的输入源。
+
+### 3.3 通用协议：相位感应式流体循环增强架构
+
+#### 1. 核心物理逻辑 (Core Physical Logic)
+
+本架构通过对**循环机械运动**中“能量捕获段”与“功输出段”的物理隔离与相位平移，实现能量的自发性增益。其不依赖于特定肢体，而是适用于任何具备**周期性压力波动**的运动系统。
+
+**A. 能量捕获相位 (Energy Capture Phase)**
+
+* **触发机制**：系统的“感应端”承受外部载荷（如挤压、撞击或重力）。
+* **物理过程**：载荷驱动流体泵送，将环境机械能转化为流体静压力。此时，循环回路处于**单向蓄能状态**，能量被锁定在蓄压单元中。
+
+**B. 逻辑整流相位 (Logic Rectification Phase)**
+
+* **触发机制**：运动相位切换（由惯性、接触状态或预设几何角度触发）。
+* **物理过程**：流体逻辑阀门（Fluidic Logic Gate）关闭储能路径，瞬时开启执行路径。
+* **物理意义**：实现了能量在**时间轴**上的搬运——将上一相位捕获的废弃能量，精准投射至下一相位的动作轨迹上。
+
+**C. 补偿输出相位 (Compensatory Output Phase)**
+
+* **执行机制**：拮抗式驱动单元（Antagonistic Drive Units）接收高压流体。
+* **物理过程**：流体压力在执行端产生定向位移，产生**“阻力变助力”**的物理奇点。执行完毕后，系统自动回归平衡态，维持物理透明度（即不干预自由运动）。
+
+#### 2. 定义：自同步流体反馈环 (Self-Synchronized Fluidic Feedback Loop)
+
+这套系统应被定义为一种**“物理层级的算法”**。它将传感器、逻辑判断和执行机构完全融合在流体分子的相互碰撞中。它避开了现代机器人学中昂贵的“信号转换损耗”，直接在**动能-压力能-动能**的转化链上实现增益。
 
 ---
 
