@@ -168,6 +168,24 @@ This architecture achieves spontaneous energy gain through the physical isolatio
 
 This system is defined as a **"Physical-Level Algorithm."** It completely integrates sensors, logic judgment, and actuators within the mutual collisions of fluid molecules. By bypassing the expensive "signal conversion losses" prevalent in modern robotics, it achieves direct gain along the **Kinetic Energy - Pressure Energy - Kinetic Energy** transformation chain.
 
+### 3.4 Physical Augmentation Protocol Based on Asymmetric Tension Gradient
+
+**1. Core Physical Principle: Tension Rectification & Geometric Variable Torque**
+
+This protocol leverages the unidirectional tension of springs (or elastic fibers) through **Eccentric Cams** or **Non-linear Linkages** to convert body-weight displacement into dispatchable potential energy. The core breakthrough is achieving a **"Negative Resistance Effect"** via geometric positioning rather than increasing mechanical complexity.
+
+* **Energy Capture (Accumulation Phase):**
+A unidirectional ratchet or friction clutch converts linear displacement (e.g., landing impact) into spring tension.
+* **Geometric Rectification (Phase Transition):**
+By designing non-cylindrical cable paths, the lever arm length is dynamically altered. This provides high torque at the motion's starting point (high-load zone) and rapidly decays tension at the finish (inertia zone) to prevent mechanical overshoot.
+* **Positional Trigger (Logic Gate):**
+The **geometric limit positions** of the joint (e.g., the physical angle of full leg extension) act as a natural mechanical trigger. Upon reaching a critical angle, the energy-locking mechanism releases, projecting energy precisely across the timeline.
+
+**2. Why "Unidirectional Tension" Architecture?**
+
+* **Bio-Compatibility:** It mimics the antagonistic working mode of biological muscles (which can only contract, not push), achieving bidirectional dynamic balance through a "dual-spring + single-link" configuration.
+* **Extreme Low Cost:** The spring-and-cable combination is lighter and cheaper than pneumatic cylinders, possessing inherent **Strain Hardening** characteristics for natural feedback.
+
 ---
 
 ### 4. Quad-Cycle Energy Harvesting System
@@ -476,6 +494,23 @@ $$E_{净收益} = (W_{下落做功} - W_{上升耗功}) - E_{控制能耗} - E_{
 #### 2. 定义：自同步流体反馈环 (Self-Synchronized Fluidic Feedback Loop)
 
 这套系统应被定义为一种**“物理层级的算法”**。它将传感器、逻辑判断和执行机构完全融合在流体分子的相互碰撞中。它避开了现代机器人学中昂贵的“信号转换损耗”，直接在**动能-压力能-动能**的转化链上实现增益。
+
+### 3.4 基于非对称张力梯度的物理增益协议
+
+**1. 核心原理：张力整流与几何变力矩**
+本方案利用弹簧（或弹性纤维）的单向张力特性，通过**偏心轮 (Eccentric Cam)** 或 **非线性杠杆** 结构，将人体自重产生的位移转化为可调度的势能。其核心在于：**在不增加系统复杂度的前提下，通过几何位置的变化实现动力的“负阻效应”。**
+
+* **能量俘获（蓄能相位）：**
+利用单向棘轮或摩擦离合结构，在载荷（如落地冲击）发生时，将线性位移转化为弹簧的张力积蓄。
+* **几何整流（相位转换）：**
+通过设计非圆柱形的绳经路径，改变力臂长度。在动作起始点（高负载区）提供大扭矩，在动作终点（惯性区）迅速衰减张力，防止机械过冲。
+* **位置触发（逻辑门）：**
+利用关节的**几何极限位置**（如大腿伸直的物理角度）作为天然的机械触发器。当角度达到临界值，能量锁死机构自动释放，实现能量在时间轴上的精准投射。
+
+**2. 为什么选择“单向张力”架构？**
+
+* **生物兼容性：** 模拟生物肌肉（只能收缩，不能推伸）的拮抗工作模式，通过“一对弹簧+一根连杆”实现双向动态平衡。
+* **极低成本：** 弹簧与绳索的组合比气缸更轻、更廉价，且具备天然的**应变强化 (Strain Hardening)** 特性。
 
 ---
 
