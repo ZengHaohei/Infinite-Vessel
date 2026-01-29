@@ -186,6 +186,34 @@ The **geometric limit positions** of the joint (e.g., the physical angle of full
 * **Bio-Compatibility:** It mimics the antagonistic working mode of biological muscles (which can only contract, not push), achieving bidirectional dynamic balance through a "dual-spring + single-link" configuration.
 * **Extreme Low Cost:** The spring-and-cable combination is lighter and cheaper than pneumatic cylinders, possessing inherent **Strain Hardening** characteristics for natural feedback.
 
+### 3.5 Gravity Arbitrage Exoskeleton Framework
+
+**Overview**
+If the physics and logic align, the system functions. This framework aims to "harvest" the gravitational field through structural intelligence, transforming human gait from an energy-consuming process into a self-sustaining mechanical cycle.
+
+**1. Core Dynamics: Transfer of Force Imbalance**
+
+The system does not rely on external energy to perform work. Instead, it creates a force imbalance by altering mechanical constraints. It captures the "surplus energy" from the center-of-gravity drop during walking, transferring this energy between gait phases through programmed structural deformation.
+
+**2. Actuator: Non-linear Elastic Tension Elements**
+
+The system employs elastic actuators (such as twisted fibers, springs, or advanced polymers) with non-linear stiffness for physical-level self-stabilization. **Preload is the sole parameter**, allowing adaptation to different body weights and terrains through simple manual tensioning.
+
+**3. Control Logic: Geometric Dead-Center & Segmented Unlocking**
+
+Eschewing electronic sensors, the system utilizes the "dead-center" logic of linkage structures to lock high-magnitude tension. Unlocking requires only a minimal displacement trigger at specific gait angles, enabling zero-power energy release. The structure itself is the algorithm.
+
+**4. Topology: Anterior-Posterior Antagonistic Placement**
+
+Unlike side-mounted auxiliary designs, this framework employs an antagonistic anterior-posterior layout. This allows energy harvesting and feedback directly along the maximum tangential direction of gravity's work, achieving true propulsion.
+
+**5. Modular Protection: Soft-Hard Switching Mode**
+
+* **Soft-Suit Mode**: Worn as a lightweight "energy mesh," utilizing the human skeleton as the compression member.
+* **Exoskeleton Mode**: Rigid struts (e.g., carbon fiber) can be inserted via quick-release mounts to create a "force bypass," physically isolating biological joints from mechanical stress during high-load operations.
+
+> **"Gravity is the free fuel; logic is the conversion pump. The material is the variable; the structure is the constant."**
+
 ---
 
 ### 4. Quad-Cycle Energy Harvesting System
@@ -511,6 +539,34 @@ $$E_{净收益} = (W_{下落做功} - W_{上升耗功}) - E_{控制能耗} - E_{
 
 * **生物兼容性：** 模拟生物肌肉（只能收缩，不能推伸）的拮抗工作模式，通过“一对弹簧+一根连杆”实现双向动态平衡。
 * **极低成本：** 弹簧与绳索的组合比气缸更轻、更廉价，且具备天然的**应变强化 (Strain Hardening)** 特性。
+
+### 3.5 重力套利外骨骼框架
+
+**概述**
+物理和逻辑通了，它就是通的。本框架的目的不是用电子设备去“模仿”人体动作，而是通过结构智慧去“收割”引力场。它将人类的行走过程从耗能行为转变为自循环的机械过程。
+
+**1. 核心动力学：力的不平衡转移**
+
+系统不依赖外部能源做功，而是通过改变机械约束制造力的不平衡。它捕捉人行走时重心跌落产生的“过剩能量”，并通过结构形变将能量在步态相位之间进行转移。
+
+**2. 执行机构：非线性弹性张力元件**
+
+系统采用具有非线性刚度的弹性执行器（如扭转纤维、弹簧或其他高分子材料）实现物理级的自稳定。**预紧力是系统的唯一参数**，通过简单的手动调节即可适配不同的体重和地形。
+
+**3. 控制逻辑：几何死点与分段解锁**
+
+摒弃电子传感器，利用连杆结构的“死点”逻辑锁定高强度张力。解锁仅需极小的位移触发（在特定步态角度），实现零功耗的能量释放管理。结构本身即是算法。
+
+**4. 拓扑结构：前后拮抗布置**
+
+区别于普通商用产品的侧面辅助设计，本框架采用一前一后的拮抗布置。这使得能量收割与回馈直接处于重力做功的最大切线方向上，实现真正的动力推进而非单纯的支撑。
+
+**5. 模块化保护：软硬切换模式**
+
+* **柔性衣模式**：作为轻量化“能量网”穿在衣服内，利用人体骨骼作为压缩支撑杆。
+* **外骨骼模式**：通过快拆卡位机构接入刚性支柱（如碳纤维杆），形成“力的旁路”，在高负载运转时物理隔离生物关节的机械磨损。
+
+> **“重力是免费的油，逻辑是转换的泵。材料是变量，结构是永恒。”**
 
 ---
 
