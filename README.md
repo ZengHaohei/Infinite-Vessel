@@ -69,6 +69,25 @@ The architecture transcends traditional discrete sensor arrays by integrating **
 * **Autonomous Regulation**:
 Upon detection of external perturbations, the system executes real-time reconstruction of internal fluid distribution based on a **Kinetic CoG Algebraic Model**. By coordinating rapid fluid migration with antagonistic compensation from the HMA, the system corrects dynamic balance within milliseconds. This ensures absolute stability during high-dynamic maneuvers, such as high-speed reversals, mid-air reorientation, and erratic terrain traversal.
 
+#### **2.6 Overload Exoskeleton & Structural Integrity Management**
+
+* **Core Logic**: To address the material fatigue and potential mechanical failure caused by extreme instantaneous output from the Helical Matrix Actuators (HMA), the system incorporates **End-segment Overload Skeletal Frames**. These frames transition from a dormant state to high-rigidity support during "Burst Mode."
+* **Vector Conversion**: At the moment of peak output, the magnetorheological sleeves at the joints solidify to lock non-linear degrees of freedom, converting complex helical torque into absolute **Linear Thrust**, ensuring maximum energy density at the point of impact.
+* **Dynamic Pre-tension & Longevity**: During routine operation, the system maintains a low pre-tension state to significantly extend material lifespan and reduce creep. Peak magnetic intensity is reserved for tactical overload scenarios.
+* **Self-Sealing via Micro-encapsulation**: The MFB "blood" is infused with **Anaerobic Micro-capsules**. In the event of structural micro-fractures or external penetration, the sudden change in local pressure and oxygen exposure triggers the capsules to rupture. In conjunction with the internal magnetic field, the polymer cross-links with metallic micro-powders to form an instantaneous physical seal, achieving autonomous "In-situ Repair."
+
+#### **2.7 Global Ionic Osmosis Energy Architecture**
+
+* **Core Logic**: The architecture eliminates centralized battery mass by utilizing the **Electrochemical Gradient** between the Magnetorheological Fluid (MFB) and the conduit boundaries.
+* **Structure-as-Battery**: Every layer of the helical muscle casing is engineered as a high-performance supercapacitor array, charged via ionic osmosis during fluid circulation.
+* **Distributed Power & Neural Redundancy**: The conductive MFB acts as a global energy and signal medium. Power diffuses through osmotic pressure, ensuring near-zero impedance and extreme redundancy—energy can be rerouted through fluidic sub-circuits even if primary structural segments are severed.
+
+#### **2.8 Thermostatic Energy Scavenging System**
+
+* **Core Logic**: Based on the principle of "Physical Constant Arbitrage," the system redefines entropy increase (waste heat) generated during high-load operations as a **Secondary Input Source**.
+* **Thermo-Electric Coupling**: Flexible thermoelectric materials are strategically deployed at high-gradient zones (joints and core actuators), converting thermal differentials into auxiliary current to recharge the osmosis network.
+* **Thermal-Siphoning**: The system utilizes temperature-induced density variances to trigger "Thermal-Siphoning" effects, driving passive fluid circulation and reducing the active power consumption of the primary circulation pumps.
+
 ---
 
 ### 3. Typical Locomotion Logic: Antagonistic Pre-Stress Equilibrium
@@ -450,6 +469,25 @@ After the weight is removed, the system utilizes the captured potential energy, 
 
 * **自适应调节 (Autonomous Regulation)**：
 一旦感知到外部扰动，系统通过**重心代数模型**实时重构内部流体分布。利用磁流体血液的快速迁移和螺旋肌肉的拮抗补偿，在毫秒内完成动态重心的修正，确保在高动态机动（如高速折返、空中变向）中的绝对平衡。
+
+#### **2.6 超负荷外骨骼与结构完整性管理**
+
+* **核心逻辑**：针对螺旋基质肌肉（HMA）极端瞬时输出可能导致的材料疲劳与机械失效，系统引入了**肢端专用载荷骨骼**。该骨骼在“爆发模式”下从休眠状态转为高刚性支撑。
+* **矢量转化**：在巅峰输出瞬间，关节处的磁流体套管硬化并锁定非线性自由度，将复杂的螺旋扭矩转化为绝对的**轴向直线推力**，确保能量密度在打击点达到最大化。
+* **动态预紧与寿命优化**：日常运转中，系统维持低预紧状态以大幅延长材料寿命并减少蠕变；仅在极端过载场景下激发巅峰磁场强度。
+* **微胶囊自修复技术**：在磁流体血液（MFB）中植入**厌氧性微胶囊**。一旦发生结构微裂纹或外部穿透，局部压力变化及氧气接触将触发胶囊破裂。在内部磁场的引导下，聚合物与金属微粉瞬间交联，形成物理封堵，实现自主“原位修复”。
+
+#### **2.7 渗透式全域能源架构**
+
+* **核心逻辑**：取消集中式电池包，利用磁流体血液（MFB）与管道壁之间的**电化学梯度**实现分布储能。
+* **能源即结构**：每一层螺旋肌肉的包覆层均被设计为高性能超级电容阵列，通过流体循环中的离子渗透进行充电。
+* **分布式电力与神经冗余**：磁流体作为全域能量与信号介质，通过渗透压实现能量扩散。这确保了极低的阻抗和极高的冗余度——即便主结构断裂，能量仍可通过流体支路绕行。
+
+#### **2.8 热稳态废热回收系统**
+
+* **核心逻辑**：基于“物理常数套利”原则，系统将高功率运转产生的熵增（废热）重新定义为**二次输入源**。
+* **热电耦合**：在热传导梯度较高的区域（关节与核心驱动器）布局柔性热电材料，将温差转化为辅助电流，回馈给渗透能源网络。
+* **热虹吸循环**：利用温差诱导的流体密度变化触发“热虹吸”效应，驱动磁流体血液自发循环，降低主循环泵的动态功耗。
 
 ---
 
