@@ -11,6 +11,10 @@
 
 ---
 
+>This meta-methodology establishes a systematic framework and operational logic centered on—but not limited to—Gravitational Potential, Fluid Dynamics, Kinetic Momentum, Elastic Moduli, and Multi-component Coupling Strategies. By deeply integrating Internal and External Loop Architectures and leveraging the theory of Dissipative Structures, this system explores the evolutionary logic of energy exchange and its subsequent derivative factions.
+
+---
+
 ### A Unified Architecture for Hyper-Biomimetic Physical Intelligence
 
 ### 1. Executive Summary
@@ -296,6 +300,43 @@ The side-mounted knob directly controls the initial static offset of the cams.
 * **Structural Weight**: AKC module weight targeted at **40g - 60g** per unit.
 * **Effective Lifespan**: Mechanical architecture supports **800,000 cycles** of impact without performance degradation.
 
+### **3.7 Gait Engine: Perpetual Nomad**
+
+**Core Architecture: Integrated Eccentric Power Unit (IEPU)**
+* **Direct-Drive Eccentric Coupling**: The power plate axis acts directly upon an eccentric cam coupled with a **high-density torsion spring**.
+* **Uni-directional Power Output**: The torsion spring is linked to the rear axle via a one-way clutch (overrunning clutch).
+* **Logic Trigger**: As the user leans forward and the Center of Gravity (CoG) passes the dead center, the eccentric cam triggers an explosive thrust while the torsion spring releases torque through the wheel assembly.
+
+**"Autonomous Forward" Logic**: Shifting the CoG forward triggers a synchronized dual-release:
+1. **Catapult**: The eccentric cam provides a diagonal upward propulsive vector to the limb.
+2. **Glide**: The torsion spring drives the rear wheel array via the one-way clutch, achieving autonomous forward translation.
+
+**Metabolic Minimum**: The human role is downgraded from "Propulsion Source" to "Steering & Balance Controller." While maintaining transit speed, the theoretical metabolic cost approaches that of standing still.
+
+**Mode A: Gravity-Glide Mode — Low-Speed Cruising**
+* **Use Cases**: Daily walking, long-distance trekking, heavy-load marching.
+* **Physical Arbitrage**:
+* **CoG-Driven**: The sole acts as an "Energy Gateway," harvesting vertical potential energy from every step via the **eccentric cam + coaxial torsion spring**.
+* **Autonomous Displacement**: Releasing upon forward lean, the rear dual-wheel drive pushes the CoG forward directly.
+
+* **User Experience**: Muscles are no longer responsible for "pushing" or "lifting," only for "stabilizing." Every step feels like walking on an escalator. Metabolic costs are minimized to the limit, achieving **"all-day, zero-burden walking."**
+
+**Mode B: Inertial Ejection Mode — High-Speed Locomotion/Running**
+* **Use Cases**: Sprinting, power-walking, obstacle clearing.
+* **Physical Arbitrage**:
+* **Wheel Retraction**: Manual or automatic (via modulation knob) retraction of the wheel array to switch to high-stiffness contact.
+* **Momentum Superposition**: Leverages high forward inertia coupled with the eccentric cam's **diagonal vector release**.
+* **Resonant Acceleration**: The mechanical ejection frequency reaches harmonic resonance with the human stride cadence; inertia nearly cancels out the resistance of lifting the leg.
+
+* **User Experience**: Feels like having two explosive thrusters underfoot. Every step is carried forward by body inertia, achieving a **"high-velocity endurance state."**
+
+**1. Efficiency Gain Projections**
+* **Low-Speed Mode**: Metabolic energy expenditure reduced by approx. **80%–90%** (leaving only the cost of maintaining balance).
+* **High-Speed Mode**: Metabolic energy expenditure reduced by approx. **60%–70%** (utilizing inertia to compensate for mechanical energy loss).
+
+**2. Core Competency: Mechanical Zero-Latency**
+* Unlike electronic assistive devices, this system is entirely based on **gravitational field response**. Your CoG is the sensor; the eccentric cam is the actuator. This "zero-latency" feedback is the most intuitive mode for the human cerebellum, eliminating any "unnatural sensation" or "lag."
+
 ---
 
 ### 4. Five-Fold Integrated Cycle System
@@ -451,6 +492,10 @@ After the weight is removed, the system utilizes the captured potential energy, 
 *仿生人的最爱*
 
 **开源许可协议：** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+>本元方法论确立了关于（但不限于）重力势能、流体动力、动能惯性、弹性模量以及多组件耦合策略等的运用逻辑与方法论体系。该体系深度整合了内循环与外循环系统结构，并基于耗散结构理论 (Dissipative Structures) 探讨了系统在能量交换过程中的演化逻辑及其延伸派系。
 
 ---
 
@@ -714,6 +759,42 @@ $$E_{净收益} = (W_{下落做功} - W_{上升耗功}) - E_{控制能耗} - E_{
 * **能量返还率 (Energy Return)**：理论值 $> 95\%$（受机械损耗限制，但远高于材料回弹的定向性）。
 * **结构重量**：AKC 模块预计增重控制在 **40g - 60g**（单只）。
 * **有效寿命**：机械结构支持 **800,000 次**循环冲击而不发生性能衰减。
+
+### **3.7 步态引擎：永恒漫步者**
+
+**核心架构：一体化偏心动力单元 (Integrated Eccentric Power Unit)**
+* **直压偏心联动**：载荷板轴直接作用于与**高密度卷簧**耦合的偏心轮。
+* **单向动力输出**：卷簧通过单向离合器（超越离合器）连接至后轮轴。
+* **逻辑触发**：当脚尖前倾，重心越过死点，偏心轮爆发弹射力，同时卷簧通过轮组释放扭矩。
+**“自动前进”逻辑**：通过将身体重心（CoG）前移，触发同步释放：
+1. **弹射**：偏心轮为肢体提供斜向上的推进矢量。
+2. **滑行**：卷簧通过单向离合器驱动后轮组，实现自主的前进位移。
+
+**代谢极小值**：人类的角色从“动力源”降级为“转向与平衡控制器”，在维持行进速度的同时，理论代谢成本接近静止站立。
+
+**模式 A：重力滑行模态 (Gravity-Glide Mode) —— 慢速巡航**
+* **适用场景**：日常步行、远距离徒步、负重行军。
+* **物理套利**：
+* **重心驱动**：将鞋底作为“能量中转站”。利用每一步落地的垂直势能通过**偏心轮+同轴卷簧**完成储能。
+* **自动位移**：脚尖前倾即释放，后端双轮驱动直接推动身体重心前移。
+
+**用户体验**：肌肉不再负责“推”和“举”，只负责“稳”。每一步都像在自动扶梯上行走，代谢成本降至极限，实现**“全天候零负担步行”**。
+
+**模式 B：惯性弹射模态 (Inertial Ejection Mode) —— 快速行进/奔跑**
+* **适用场景**：疾跑、加速快走、越障。
+* **物理套利**：
+* **轮式收纳**：手动或自动（通过调节旋钮）收回轮组，切换为高硬度接触。
+* **动量叠加**：利用前进的巨大惯性，配合偏心轮的**斜向上矢量释放**。
+* **共振加速**：机械弹射频率与人体迈步频率达成简谐共振，惯性几乎完全抵消了抬腿的阻力。
+
+**用户体验**：感觉像是脚下踩着两个不断爆发的推进器，每一步都被身体惯性带着向前“飞跃”，实现**“高速度持久战”**。
+
+**1. 能效收益预测 (Efficiency Gains)**
+* **低速模式**：代谢能耗降低约 **80%-90%**（基本仅剩维持平衡的消耗）。
+* **高速模式**：代谢能耗降低约 **60%-70%**（利用惯性补偿机械能损失）。
+
+**2. 核心竞争力：机械级零延迟 (Mechanical Latency)**
+* 不同于任何电子辅助设备，本系统完全基于**重力场响应**。传感器是你的重心，执行器是偏心轮。这种“零延迟”的反馈是人类小脑最容易接受的模式，不会产生任何“异物感”或“拖拽感”。
 
 ---
 
