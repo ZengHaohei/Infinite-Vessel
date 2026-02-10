@@ -132,6 +132,21 @@ In the ISA architecture, energy storage is no longer a detached chemical battery
 
 ---
 
+## Paradigm Shift in Perception — Physical Instinct Engine (PIE)
+
+> **Methodology: Physical-Logic Anchoring Paradigm (PALP)**
+> **Core Definition:** This methodology aims to establish a low-level computational instinct by abstracting objective physical laws (displacement, momentum, flux, etc.) into **physical-logic operators**. It fundamentally eliminates the redundant load of algorithmic layers by leveraging the determinism of the physical world, enabling the structural reorganization of complex algorithms.
+> * **Physical Interception:** Utilizes **physical-differential logic** at the perception source to perform survival-weight filtering, intercepting over 95% of invalid background noise. During environmental idle periods, energy consumption approaches the physical limit (**Zero-Power Standby**).
+> * **Truth-Value Substitution:** Replaces compute-intensive "probabilistic guessing" with **deterministic truth-values** backed by physical laws (e.g., absolute depth derived from $TTC$ expansion rates). Computational complexity collapses from high-dimensional feature fitting into linear algebraic mapping.
+> 
+> $$Total\_Cost = \sum (Semantic\_Inference) \rightarrow PALP(Physical\_Filtering) + \epsilon(Semantic\_Verification)$$
+> 
+> *(Note: Where  represents the ultra-low frequency overhead of semantic verification)*
+> 
+> **Conclusion:** Subtraction at the physical layer, multiplication at the logical layer. Building an ultimate computational framework with high real-time performance, high determinism, and ultra-high redundancy.
+
+---
+
 ### **Neural Network: Predictive Dynamic Reflex Nerve (ISA)**
 
 #### **I. Core Architecture: Predictive Inertial Servo & Hypersonic Reflex**
@@ -784,6 +799,20 @@ ISA 的空腔骨骼内壁采用高比表面积的碳纳米管或多孔石墨烯�
 
 * **动能与电能的“即时态”转换**：
 由于超级电容充放电极快的物理特性，ISA 能够瞬间吸收下落撞击时的巨大能量峰值，并立即将其反馈给磁流体以调节刚度。这种“结构即电容”的设计，消除了传统电池在高功率充放电时的发热与寿命损耗。
+
+---
+
+## 感知的范式革命——物理本能引擎 (PIE)
+
+> **方法论：物理抽象化逻辑本能范式 (PALP)**
+> **核心定义：** 本方法论旨在建立一种底层的计算本能，通过将客观物理规律（位移、动量、通量等）抽象化为系统的**逻辑本能算子**。其本质是利用物理世界的确定性，从根源上消除算法层的冗余负荷，实现复杂算法的结构重组。
+> * **物理拦截：** 利用**物理差分逻辑**在感知源头执行生存权重过滤，拦截 95% 以上的无效背景噪声。在环境静默期，能效消耗趋近于物理极限（Zero-Power Standby）。
+> * **真值替代：** 将极耗算力的“概率猜想”替换为由物理定律背书的**确定性直值**（如基于 $TTC$ 扩张率推导的绝对深度）。计算量由高维特征拟合塌陷为线性代数映射。
+> 
+> $$Total\_Cost = \sum (Semantic\_Inference) \rightarrow PALP(Physical\_Filtering) + \epsilon(Semantic\_Verification)$$
+> (注：其中 $\epsilon$ 代表极低频的语义校验开销)
+> 
+> **结语：** 物理层做减法，逻辑层做乘法。构建高实时、高确定性、超高冗余量的终极计算框架。
 
 ---
 
