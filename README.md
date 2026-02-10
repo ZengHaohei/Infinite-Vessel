@@ -810,6 +810,7 @@ ISA 的空腔骨骼内壁采用高比表面积的碳纳米管或多孔石墨烯�
 > * **真值替代：** 将极耗算力的“概率猜想”替换为由物理定律背书的**确定性直值**（如基于 $TTC$ 扩张率推导的绝对深度）。计算量由高维特征拟合塌陷为线性代数映射。
 > 
 > $$Total\_Cost = \sum (Semantic\_Inference) \rightarrow PALP(Physical\_Filtering) + \epsilon(Semantic\_Verification)$$
+> 
 > (注：其中 $\epsilon$ 代表极低频的语义校验开销)
 > 
 > **结语：** 物理层做减法，逻辑层做乘法。构建高实时、高确定性、超高冗余量的终极计算框架。
