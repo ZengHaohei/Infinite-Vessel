@@ -141,7 +141,7 @@ In the ISA architecture, energy storage is no longer a detached chemical battery
 > 
 > $$Total\_Cost = \sum (Semantic\_Inference) \rightarrow PALP(Physical\_Filtering) + \epsilon(Semantic\_Verification)$$
 > 
-> *(Note: Where  represents the ultra-low frequency overhead of semantic verification)*
+> *(Note: Where $\epsilon$ represents the ultra-low frequency overhead of semantic verification)*
 > 
 > **Conclusion:** Subtraction at the physical layer, multiplication at the logical layer. Building an ultimate computational framework with high real-time performance, high determinism, and ultra-high redundancy.
 
